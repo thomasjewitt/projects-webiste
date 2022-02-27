@@ -21,7 +21,7 @@
 			bind:value={filter} />
 	</div>
 	<div class="row flex-center no-bottom">
-		<div class="col-8">
+		<div class="col md-8">
 			{#if filteredProjects != undefined}
 				{#each filteredProjects as project}
 					<div class="collapsible-container">
@@ -33,7 +33,7 @@
 							>
 								<p>{project.description}</p>
 								<div class="row flex-spaces">
-									<div class="col-4">
+									<div class="col md-4">
 										<p>Technologies Used</p>
 										<ul>
 											{#each project.technologies as technology}
@@ -41,7 +41,7 @@
 											{/each}
 										</ul>
 									</div>
-									<div class="col-4">
+									<div class="col md-4">
 										<p>Learning Outcomes</p>
 										<ul>
 											{#each project.learning as learning}
