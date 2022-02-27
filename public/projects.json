@@ -1,0 +1,14 @@
+[
+    {
+        "week": "Week 1",
+        "title": "Projects Website",
+        "subtitle": "You're on it!",
+        "description": "A website to host weekend projects and other requisite information.",
+        "technologies": ["Svelte", "Netlify", "HTML5", "CSS3", "Javascript"],
+        "learning": ["Gain familiarization with Svelte", 
+                    "Brush up on using Netlify for hosting", 
+                    "Sharpen basic frontend skills"],
+        "github": "https://projects.thomasjewitt.com",
+        "link": "https://projects.thomasjewitt.com"
+    }
+]
