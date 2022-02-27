@@ -79,6 +79,6 @@
 	}
 
 	.spacer {
-		height: 56vh;
+		height: 66vh;
 	}
 </style>
