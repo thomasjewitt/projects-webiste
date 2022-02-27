@@ -50,8 +50,8 @@
 										</ul>
 									</div>
 								</div>
-								<a class="card-link" href="{project.github}">Github</a>
-    							<a class="card-link" href="{project.link}">View</a>
+								<a class="card-link" target="_blank" href="{project.github}">Github</a>
+    							<a class="card-link" target="_blank" href="{project.link}">View</a>
 							</Card>
 						</Collapsible>
 					</div>
