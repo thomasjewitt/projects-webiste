@@ -51,7 +51,9 @@
 									</div>
 								</div>
 								<a class="card-link" target="_blank" href="{project.github}">Github</a>
+								{#if project.link}
     							<a class="card-link" target="_blank" href="{project.link}">View</a>
+								{/if}
 							</Card>
 						</Collapsible>
 					</div>
