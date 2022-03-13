@@ -8,7 +8,17 @@
         "learning": ["Gain familiarization with Svelte", 
                     "Brush up on using Netlify for hosting", 
                     "Sharpen basic frontend skills"],
-        "github": "https://github.com/thomasjewitt/projects-webiste",
+        "github": "https://github.com/thomasjewitt/projects-website",
         "link": "https://projects.thomasjewitt.com"
+    }, {
+        "week": "Week 2",
+        "title": "Polling App",
+        "subtitle": "Simple user polls, with no sign-up required.",
+        "description": "A website to host user created polls, shareable via link, and display poll results..",
+        "technologies": ["React", "Material UI", "Django", "PostgreSQL", "Docker", "Django Rest Framework", "HTML5", "CSS3", "Javascript"],
+        "learning": ["Work on full stack skills", 
+                    "Sharpen proficiency in building containerized applications", 
+                    "Gain familiarization with Material UI components and tools"],
+        "github": "https://github.com/thomasjewitt/pollingapp"
     }
 ]

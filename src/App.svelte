@@ -14,7 +14,7 @@
 
 <main>
 	<h2>A Project a Week</h2>
-	<h4>An ongoing list of projects created by Thomas Jewitt, limited to the 48 hours of the standard weekend.</h4>
+	<h4>An ongoing list of projects created by Thomas Jewitt, limited to one per week.</h4>
 
 	<div class="row flex-center">
 		<Input placeholder="Filter by Technology" 
