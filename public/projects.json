@@ -14,11 +14,22 @@
         "week": "Week 2",
         "title": "Polling App",
         "subtitle": "Simple user polls, with no sign-up required.",
-        "description": "A website to host user created polls, shareable via link, and display poll results..",
+        "description": "A website to host user created polls, shareable via link, and display poll results.",
         "technologies": ["React", "Material UI", "Django", "PostgreSQL", "Docker", "Django Rest Framework", "HTML5", "CSS3", "Javascript"],
         "learning": ["Work on full stack skills", 
                     "Sharpen proficiency in building containerized applications", 
                     "Gain familiarization with Material UI components and tools"],
-        "github": "https://github.com/thomasjewitt/pollingapp"
+        "github": "https://github.com/thomasjewitt/pollingapp",
+        "image": "week2.png"
+    }, {
+        "week": "Week 3",
+        "title": "MongoDB Authentication API",
+        "subtitle": "Quick and clean JWT Authentication example.",
+        "description": "A simple authentication API built using FastAPI and MongoDB, designed to authenticate users using JWT.",
+        "technologies": ["MongoDB", "FastAPI", "JWT", "Docker"],
+        "learning": ["Learn the uses and applications of JWT for authentication", 
+                    "Practice utilizing password hashing strategies within an API", 
+                    "Gain familiarization with NoSQL databases for authentication purposes"],
+        "github": "https://github.com/thomasjewitt/mongo-auth"
     }
 ]
