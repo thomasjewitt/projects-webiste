@@ -19,8 +19,7 @@
         "learning": ["Work on full stack skills", 
                     "Sharpen proficiency in building containerized applications", 
                     "Gain familiarization with Material UI components and tools"],
-        "github": "https://github.com/thomasjewitt/pollingapp",
-        "image": "week2.png"
+        "github": "https://github.com/thomasjewitt/pollingapp"
     }, {
         "week": "Week 3",
         "title": "MongoDB Authentication API",

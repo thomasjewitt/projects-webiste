@@ -29,7 +29,6 @@
 							<Card 
 								title={project.title}
 								subTitle={project.subtitle}
-								image={project.image}
 							>
 								<p>{project.description}</p>
 								<div class="row flex-spaces">
