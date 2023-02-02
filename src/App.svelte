@@ -13,8 +13,8 @@
 </script>
 
 <main>
-	<h2>A Project a Week</h2>
-	<h4>An ongoing list of projects created by Thomas Jewitt, limited to one per week.</h4>
+	<h2>Thomas Jewitt's Projects</h2>
+	<h4>An ongoing list of web development projects created by Thomas Jewitt.</h4>
 
 	<div class="row flex-center">
 		<Input placeholder="Filter by Technology" 

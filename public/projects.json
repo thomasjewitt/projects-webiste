@@ -1,6 +1,6 @@
 [
     {
-        "week": "Week 1",
+        "week": "Project 1",
         "title": "Projects Website",
         "subtitle": "You're on it!",
         "description": "A website to host weekend projects and other requisite information.",
@@ -11,7 +11,7 @@
         "github": "https://github.com/thomasjewitt/projects-website",
         "link": "https://projects.thomasjewitt.com"
     }, {
-        "week": "Week 2",
+        "week": "Project 2",
         "title": "Polling App",
         "subtitle": "Simple user polls, with no sign-up required.",
         "description": "A website to host user created polls, shareable via link, and display poll results.",
@@ -21,7 +21,7 @@
                     "Gain familiarization with Material UI components and tools"],
         "github": "https://github.com/thomasjewitt/pollingapp"
     }, {
-        "week": "Week 3",
+        "week": "Project 3",
         "title": "MongoDB Authentication API",
         "subtitle": "Quick and clean JWT Authentication example.",
         "description": "A simple authentication API built using FastAPI and MongoDB, designed to authenticate users using JWT.",
